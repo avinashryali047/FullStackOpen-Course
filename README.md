@@ -1,2 +1,2 @@
 # FullStackOpen-Course
-the repository consists the exercises from part 1 
+the repository consists of the exercises from part 1 
